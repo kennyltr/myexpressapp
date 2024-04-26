@@ -1,0 +1,19 @@
+{
+  "name": "myexpressapp",
+  "version": "1.0.0",
+  "description": "new express app lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyltr/myexpressapp.git"
+  },
+  "author": "Kenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennyltr/myexpressapp/issues"
+  },
+  "homepage": "https://github.com/kennyltr/myexpressapp#readme"
+}
